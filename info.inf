@@ -1,0 +1,4 @@
+name patch:Game
+version:1.0.0.0
+DNS/ip:192.168.100.10
+port:4444
